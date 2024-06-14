@@ -1,2 +1,5 @@
 m4b/*.m4b
-tts/**/*.wav
+m4b/chapters.txt
+tts/*/*.wav
+tts/*/*.txt
+html-scraper/*/*.txt
